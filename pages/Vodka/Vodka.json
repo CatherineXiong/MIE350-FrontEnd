@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "67c9eb4c53c5c753557cac65_6752345a-9143-452c-8d27-ed4c37a7af7b",
+  "unpublishedPage": {
+    "isHidden": true,
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 390.0,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0.0,
+          "minHeight": 680.0,
+          "parentColumnSpace": 1.0,
+          "parentRowSpace": 1.0,
+          "rightColumn": 1224.0,
+          "snapColumns": 64.0,
+          "snapRows": 66.0,
+          "topRow": 0.0,
+          "type": "CANVAS_WIDGET",
+          "version": 92.0,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "Vodka",
+    "slug": "vodka"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": {{Number(inputId.text)}},
+  "alcohol": {
+    "id": {{Number(inputId.text)}},
+    "category_id": {
+      "category_id": 1,
+      "category_name": "Beer"
+    },
+    "amount": {{Number(inputAmount.text)}},
+    "name": {{inputName.text}},
+    "price": {{Number(inputPrice.text)}},
+    "abv": {{Number(inputABV.text)}},
+    "top1Flavor": {{inputFlavor1.text}},
+    "top2Flavor": {{inputFlavor2.text}},
+    "top3Flavor": {{inputFlavor3.text}}
+  },
+  "beerType": {{inputType.text}},
+  "beerOrigin": {{inputOrigin.text}}
+}

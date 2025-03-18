@@ -1,0 +1,41 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 85,
+  "boxShadow": "none",
+  "defaultImage": "https://www.thinkrevel.com/wp-content/uploads/Skipstone_Studio_March2016_MG_6141_RT-1920x1267.jpg",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "pajc7ibv03",
+  "leftColumn": 45,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 53,
+  "mobileLeftColumn": 12,
+  "mobileRightColumn": 24,
+  "mobileTopRow": 41,
+  "needsErrorInfo": false,
+  "objectFit": "cover",
+  "originalBottomRow": 85,
+  "originalTopRow": 57,
+  "parentColumnSpace": 14.234375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 64,
+  "topRow": 57,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "0tprep5f93",
+  "widgetName": "Image1"
+}

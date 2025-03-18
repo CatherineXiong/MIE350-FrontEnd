@@ -1,0 +1,48 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 26,
+  "boxShadow": "none",
+  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": true,
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "c2agoya3ey",
+  "leftColumn": 47,
+  "minWidth": 120,
+  "mobileBottomRow": 37,
+  "mobileLeftColumn": 46,
+  "mobileRightColumn": 62,
+  "mobileTopRow": 33,
+  "needsErrorInfo": false,
+  "onClick": "{{Add_Beer.run({\n  \"id\": Number(inputId.text),\n  \"name\": inputName.text,\n  \"abv\": inputABV.text,\n  \"price\": inputPrice.text,\n  \"amount\": inputAmount.text,\n  \"top1Flavor\": inputFlavor1.text,\n  \"top2Flavor\": inputFlavor2.text,\n  \"top3Flavor\": inputFlavor3.text,\n  \"beerType\": inputType.text,\n  \"beerOrigin\": inputOrigin.text\n}).then(() => {\n  showAlert('Success :)', '');\n  Get_All_Beer.run();\n}).catch(() => {\n  showAlert('Failed :(', '');\n});}}",
+  "parentId": "21zy8aahgi",
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": true,
+  "responsiveBehavior": "hug",
+  "rightColumn": 60,
+  "text": "Submit",
+  "topRow": 22,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "8iera4dwmc",
+  "widgetName": "inputSubmit"
+}

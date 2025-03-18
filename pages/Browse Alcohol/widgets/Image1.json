@@ -1,0 +1,41 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 92,
+  "boxShadow": "none",
+  "defaultImage": "https://www.sciencefriday.com/wp-content/uploads/2025/01/alcohol-advisory.jpg",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "6gdf2b6abt",
+  "leftColumn": 0,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 27,
+  "mobileLeftColumn": 9,
+  "mobileRightColumn": 21,
+  "mobileTopRow": 15,
+  "needsErrorInfo": false,
+  "objectFit": "cover",
+  "originalBottomRow": 92,
+  "originalTopRow": 20,
+  "parentColumnSpace": 13.53125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 64,
+  "topRow": 20,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "2zszn1jj1d",
+  "widgetName": "Image1"
+}

@@ -1,0 +1,11 @@
+{{
+ {
+		"id": this.params.id,
+		"name": this.params.name,
+		"price": this.params.price,
+		"amount": this.params.amount,
+		"abv": this.params.abv,
+	 "type": this.type.abv,
+	 "flavor": this.flavor.abv 
+ }
+}}

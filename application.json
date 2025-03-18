@@ -1,0 +1,84 @@
+{
+  "appIsExample": false,
+  "applicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    },
+    "navigationSetting": {},
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#FFDEDE",
+  "evaluationVersion": 2,
+  "icon": "car",
+  "pages": [
+    {
+      "id": "Beer",
+      "isDefault": false
+    },
+    {
+      "id": "Whisky",
+      "isDefault": false
+    },
+    {
+      "id": "Wine",
+      "isDefault": false
+    },
+    {
+      "id": "Vodka",
+      "isDefault": false
+    },
+    {
+      "id": "Non-Alcoholic Beverages",
+      "isDefault": false
+    },
+    {
+      "id": "Tequila",
+      "isDefault": false
+    },
+    {
+      "id": "Home",
+      "isDefault": true
+    },
+    {
+      "id": "Browse Alcohol",
+      "isDefault": false
+    },
+    {
+      "id": "Spirits",
+      "isDefault": false
+    },
+    {
+      "id": "1 - Intent",
+      "isDefault": false
+    },
+    {
+      "id": "3.1 - Alc (New)",
+      "isDefault": false
+    },
+    {
+      "id": "3.2 - Alc (Similar)",
+      "isDefault": false
+    },
+    {
+      "id": "4 - Taste Profile",
+      "isDefault": false
+    }
+  ],
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    },
+    "navigationSetting": {},
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  }
+}

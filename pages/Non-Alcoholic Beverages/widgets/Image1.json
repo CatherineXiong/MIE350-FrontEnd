@@ -1,0 +1,41 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 87,
+  "boxShadow": "none",
+  "defaultImage": "https://www.besthealthmag.ca/wp-content/uploads/2023/11/BH231017-Opener_fnl-copy.jpg",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "05hpw63ojj",
+  "leftColumn": 0,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 52,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 12,
+  "mobileTopRow": 40,
+  "needsErrorInfo": false,
+  "objectFit": "cover",
+  "originalBottomRow": 90,
+  "originalTopRow": 50,
+  "parentColumnSpace": 14.234375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 64,
+  "topRow": 47,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "fensgpitwk",
+  "widgetName": "Image1"
+}

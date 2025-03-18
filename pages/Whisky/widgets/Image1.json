@@ -1,0 +1,41 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 86,
+  "boxShadow": "none",
+  "defaultImage": "https://imageio.forbes.com/specials-images/dam/imageserve/1082806948/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "pajc7ibv03",
+  "leftColumn": 0,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 55,
+  "mobileLeftColumn": 15,
+  "mobileRightColumn": 27,
+  "mobileTopRow": 43,
+  "needsErrorInfo": false,
+  "objectFit": "cover",
+  "originalBottomRow": 86,
+  "originalTopRow": 58,
+  "parentColumnSpace": 14.234375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 64,
+  "topRow": 58,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "xbonbdmj6p",
+  "widgetName": "Image1"
+}

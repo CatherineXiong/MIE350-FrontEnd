@@ -1,0 +1,10 @@
+{{
+ {
+		"id": this.params.id,
+		"name": this.params.name,
+		"price": this.params.price,
+		"amount": this.params.amount,
+		"isCarbonated": this.params.isCarbonated,
+	 "alcoholicEquivalent": this.params.alcoholicEquivalent,
+ }
+ }}
